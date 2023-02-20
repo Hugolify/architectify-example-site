@@ -1,22 +1,33 @@
 ---
 isIndex: true
-title: Home
+title: Accueil
 hero:
-  surtitle: Hugo + Netlify CMS
-  title: Architectify demo website
-  text: This is a demo of a Github template for build easily a fast, accessible
-    friendly and low carbon website!
+  surtitle: Architectify
+  title: Site de démonstration de notre cabinet d’architectes
+  text: Voici un site de démonstration pour la solution Architectify.\
+  
+    La volonté graphique de neutralité permet de découvrir les fonctionnalités et les informations possibles à renseigner.
   cta:
-    url: https://www.architectify.fr/
-    text: Architectify website
-    blank: true
+    url: "#main"
+    text: Découvrir
+    blank: false
   cta_second:
-    url: https://github.com/hugolify
-    text: Discover on Github
+    url: https://www.architectify.fr/
+    text: Architectify
     blank: true
-  image:
-    src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
 blocks:
+  - type: latest
+    count: 3
+    show_more: true
+    background: false
+    section: projects
+    title: Latest projects
+  - type: latest
+    count: 4
+    show_more: true
+    background: false
+    title: Latest publications
+    section: publications
   - type: cta
     background: false
     title: Content blocks
@@ -26,22 +37,4 @@ blocks:
       blank: false
       text: See all available blocks
       url: /blocks
-  - type: latest
-    count: 3
-    show_more: true
-    background: false
-    section: projects
-    title: Latest projects
-  - type: latest
-    count: 3
-    show_more: true
-    background: false
-    section: posts
-    title: Latest posts
-  - type: latest
-    count: 4
-    show_more: true
-    background: false
-    title: Latest publications
-    section: publications
 ---

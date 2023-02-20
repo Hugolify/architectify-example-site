@@ -1,4 +1,4 @@
 ---
 isIndex: false
-title: Tempus eget
+title: Hotel
 ---

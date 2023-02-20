@@ -1,7 +1,7 @@
 ---
 isPage: true
 draft: false
-title: Privacy policy
+title: Politique de confidentialité
 ---
 ## Pellentesque in vehicula turpis
 
