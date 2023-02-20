@@ -1,0 +1,10 @@
+links:
+  - title: Cabinets
+    url: /cabinets
+  - title: Projects
+    url: /projects
+  - title: News
+    url: /news
+  - blank: false
+    title: Publications
+    url: /publications
