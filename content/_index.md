@@ -17,14 +17,14 @@ hero:
     blank: true
 blocks:
   - type: latest
-    count: 3
-    show_more: true
+    count: 6
+    show_more: false
     background: false
     section: projects
     title: Latest projects
   - type: latest
     count: 4
-    show_more: true
+    show_more: false
     background: false
     title: Latest publications
     section: publications
