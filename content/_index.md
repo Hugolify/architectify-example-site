@@ -12,7 +12,7 @@ hero:
     text: Découvrir
     blank: false
   cta_second:
-    url: https://www.architectify.fr/
+    url: https://www.architectify.io/
     text: Architectify
     blank: true
 blocks:
