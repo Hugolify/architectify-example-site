@@ -22,8 +22,15 @@ blocks:
     background: false
     section: projects
     title: Latest projects
+  - type: figure
+    background: false
+    grid: large
+    figure:
+      src: /images/uploads/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg
+      credit: Photo de [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/fr/photos/HtBlQdxfG9k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
+  
   - type: latest
-    count: 4
+    count: 3
     show_more: false
     background: false
     title: Latest publications

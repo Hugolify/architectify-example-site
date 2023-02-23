@@ -7,12 +7,9 @@ description: Vivamus iaculis libero arcu, sed pellentesque nisl lacinia eget.
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
 image:
-  credit: Photo by [Clovis Wood
-    Photography](https://unsplash.com/@clo_shooting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    on
-    [Unsplash](https://unsplash.com/s/photos/contis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/clovis-wood-photography-ukia1x8ogfy-unsplash.jpg
-images: []
+  credit: Photo by [NMG Network](https://unsplash.com/es/@nmgnetwork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    on [Unsplash](https://unsplash.com/fr/photos/1OuY1iPO7pk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  src: /images/uploads/nmg-network-1OuY1iPO7pk-unsplash.jpg
 press:
   url: https://lipsum.com/
   title: Vivamus iaculis libero arcu

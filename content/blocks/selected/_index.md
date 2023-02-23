@@ -24,14 +24,6 @@ blocks:
       - 2022/proin-massa-enim-lobortis-et-vehicula-non
     title: 3 selected projects
     show_more: true
-  - type: selected-casestudies
-    section: casestudies
-    show_more: true
-    background: true
-    items:
-      - 2022/maecenas-semper-urna-enim
-      - 2022/viverra-nisi-at-sagittis
-    title: 2 selected case studies
   - type: selected-posts
     section: posts
     show_more: true
