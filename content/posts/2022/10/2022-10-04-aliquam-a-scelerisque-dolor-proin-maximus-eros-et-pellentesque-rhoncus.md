@@ -7,14 +7,10 @@ description: Pellentesque vulputate nulla fermentum libero aliquam, ut gravida
   nisi pellentesque.
 categories: Lorem ipsum
 authors:
-  - john-doe
-  - jane-doe
+  - lea-morin
 image:
-  src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg
-  credit: Photo by [Louis
-    Mornaud](https://unsplash.com/@louismornaud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    on
-    [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  src: /images/uploads/ipek-aydogdu-t8KQP8uzNrM-unsplash.jpg
+  credit: Photo by [İpek Aydoğdu](https://unsplash.com/@ipekaydogdu) on [Unsplash](https://unsplash.com/)
 ---
 ## Lorem ipsum
 

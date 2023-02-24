@@ -7,13 +7,10 @@ description: Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu
   varius egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
 categories: Lorem ipsum
 authors:
-  - john-doe
+  - michel-brin
 image:
-  src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
-  credit: Photo by [Balthazar
-    LELIEVRE](https://unsplash.com/@balthazar_lvr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    on
-    [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  src: /images/uploads/tandem-x-visuals-qluESDgit1U-unsplash.jpg
+  credit: Photo by [Tandem X Visuals](https://unsplash.com/@tandemxvisuals) on [Unsplash](https://unsplash.com/)
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia ligula non facilisis eleifend. Cras at gravida ipsum. Donec quam erat, fermentum nec commodo sed, tincidunt vitae nisl. 
 

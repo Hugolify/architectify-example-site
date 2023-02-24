@@ -19,38 +19,22 @@ hero:
 blocks:
   - type: figure
     figure:
-      src: /images/uploads/bertrand-borie-tmlculvqha0-unsplash.jpg
+      src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       legend: Figure (small)
-      credit: Photo by [Bertrand
-        Borie](https://unsplash.com/@bertrand1212?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        on
-        [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     grid: small
   - type: figure
     figure:
-      src: /images/uploads/bertrand-bouchez-lrd26nd-awu-unsplash.jpg
+      src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       legend: Figure (medium)
-      credit: Photo by [Bertrand
-        Bouchez](https://unsplash.com/@dollyfilms?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        on
-        [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     grid: medium
   - type: figure
     figure:
-      src: /images/uploads/robin-goutard-3evcj31p35q-unsplash.jpg
+      src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       legend: Figure (large)
-      credit: Photo by [Robin
-        Goutard](https://unsplash.com/es/@redsonly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        on
-        [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     grid: large
   - type: figure
     figure:
-      src: /images/uploads/yann-behr-qzugs6bpcr0-unsplash.jpg
+      src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       legend: Figure (full)
-      credit: Photo by [yann
-        behr](https://unsplash.com/@yannbehr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        on
-        [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     grid: full
 ---

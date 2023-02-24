@@ -22,12 +22,12 @@ blocks:
     title: Lorem ipsum dolor sit amet.
     text: Suspendisse sollicitudin dignissim velit quis consequat
     images:
-      - half: false
-        src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
-      - half: true
-        src: /images/uploads/robin-goutard-3evcj31p35q-unsplash.jpg
-      - half: true
-        src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
-      - half: false
-        src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+      - src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
+        half: false
+      - src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
+        half: true
+      - src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
+        half: true
+      - src: /images/uploads/dfy-FdJTAlZaeOA-unsplash.jpg
+        half: false
 ---

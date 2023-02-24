@@ -2,11 +2,9 @@
 isIndex: true
 title: Accueil
 hero:
-  surtitle: Architectify
-  title: Site de démonstration de notre cabinet d’architectes
-  text: Voici un site de démonstration pour la solution Architectify.\
-  
-    La volonté graphique de neutralité permet de découvrir les fonctionnalités et les informations possibles à renseigner.
+  surtitle: Praesent tempor
+  title: Aenean tristique metus vitae
+  text: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet. Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
   cta:
     url: "#main"
     text: Découvrir
@@ -28,20 +26,41 @@ blocks:
     figure:
       src: /images/uploads/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg
       credit: Photo de [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/fr/photos/HtBlQdxfG9k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
-  
+  - type: editorial
+    direction: ltr
+    background: false
+    surtitle: Suspendisse sed dui sollicitudin
+    title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet.
+    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
+    image:
+      src: /images/uploads/trym-robberstad-y9Kb_tQllbk-unsplash.jpg
+    cta:
+      text: Suspendisse sed dui sollicitudin
+      url: "#"
+  - type: editorial
+    direction: rtl
+    background: false
+    surtitle: Vestibulum consequat sit amet
+    title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet.
+    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
+    image:
+      src: /images/uploads/pedro-miranda-3QzMBrvCeyQ-unsplash.jpg
+    cta:
+      text: Suspendisse sed dui sollicitudin
+      url: "#"
   - type: latest
     count: 3
     show_more: false
     background: false
     title: Latest publications
     section: publications
-  - type: cta
-    background: false
-    title: Content blocks
-    text: To compose beautiful pages, more than fifteen blocks are available to
-      boost their content. Available for pages and case studies.
-    cta:
-      blank: false
-      text: See all available blocks
-      url: /blocks
+  # - type: cta
+  #   background: false
+  #   title: Content blocks
+  #   text: To compose beautiful pages, more than fifteen blocks are available to
+  #     boost their content. Available for pages and case studies.
+  #   cta:
+  #     blank: false
+  #     text: See all available blocks
+  #     url: /blocks
 ---

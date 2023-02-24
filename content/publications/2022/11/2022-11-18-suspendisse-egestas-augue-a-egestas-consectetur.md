@@ -11,7 +11,7 @@ image:
   src: /images/uploads/sarah-dorweiler-Sy8dsVyiPgs-unsplash.jpg
 images: []
 concerned: 
-  - john-doe
+  - frederic-dupond
 press:
   url: https://lipsum.com/
   title: Cras vel tincidunt

@@ -26,7 +26,7 @@ blocks:
     author:
       title: Aenean commodo
       image:
-        src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+        src: /images/uploads/michael-dam-mez3pofgs_k-unsplash.jpg
       text: Vivamus non mauris elit
   - type: quote
     background: true

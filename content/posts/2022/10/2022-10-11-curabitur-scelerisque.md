@@ -7,17 +7,15 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
   lacinia ligula non facilisis eleifend. Cras at gravida ipsum. Donec quam erat,
   fermentum nec commodo sed, tincidunt vitae nisl.
 'posts/categories': Donec maximus a nulla ut feugiat
-authors:
-  - john-doe
-'posts/tags':
+tags:
   - Lorem
   - Ipsum
+author:
+  - lea-morin
+  - frederic-dupond
 image:
-  src: /images/uploads/bertrand-borie-tmlculvqha0-unsplash.jpg
-  credit: Photo by [Bertrand
-    Borie](https://unsplash.com/@bertrand1212?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    on
-    [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  src: /images/uploads/darwin-vegher-mV4oTSZR4eA-unsplash.jpg
+  credit: Photo by [Darwin Vegher](https://unsplash.com/@darwiiiin) on [Unsplash](https://unsplash.com/)
 ---
 
 ## Sed pharetra, massa eu varius egestas
@@ -30,11 +28,10 @@ Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius egest
 
 Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique elit. Nunc tempus tempor neque a fringilla.
 
-
 ## Shortcodes
 
 ### Figure
-{{< figure src="/images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg" legend="Legend" >}}
+{{< figure src="/images/uploads/avel-chuklanov-IB0VA6VdqBw-unsplash.jpg" legend="Fusce id imperdiet nunc" credit="Avel Chuklanov" >}}
 
 ### Twitter
 {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}

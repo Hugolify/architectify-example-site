@@ -25,19 +25,15 @@ blocks:
       url: "#"
     background: false
     surtitle: Surtitle
-    title: Editorial
-    text: Text on the left, image on the right
+    title: Text on the left, image on the right
+    text: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus     felis ante, eget commodo ex ullamcorper eu. Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
     image:
-      src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
+      src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
   - type: editorial
     direction: rtl
-    cta:
-      blank: false
-      text: Button
-      url: "#"
     background: false
-    title: Editorial
-    text: Text on the right, image on the left
+    title: Text on the right, image on the left
+    text: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus     felis ante, eget commodo ex ullamcorper eu. Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
     image:
-      src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
+      src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
 ---

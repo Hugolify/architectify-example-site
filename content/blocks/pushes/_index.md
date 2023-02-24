@@ -34,7 +34,7 @@ blocks:
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+          src: /images/uploads/darwin-vegher-mV4oTSZR4eA-unsplash.jpg
           alt: ""
   - type: pushes
     column: 1
@@ -50,7 +50,7 @@ blocks:
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
+          src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
           alt: ""
   - type: pushes
     column: 1
@@ -66,7 +66,7 @@ blocks:
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
+          src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
           alt: ""
   - type: pushes
     column: 2
@@ -79,14 +79,14 @@ blocks:
           url: "#"
           text: Lorem ipsum
         image:
-          src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
+          src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
         offset: start
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
       - cta:
           blank: false
         image:
-          src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
+          src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
           alt: ""
         offset: start
         title: Faucibus maximus nunc
@@ -94,19 +94,21 @@ blocks:
   - type: pushes
     column: 2
     background: false
-    title: 2 columns without images
+    title: 2 columns without images and custom background color
     text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
     items:
       - cta:
           blank: false
           url: "#"
           text: Lorem ipsum
+        background_color: "#000"
         offset: start
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
       - cta:
           blank: false
         offset: center
+        background_color: "#0E0F60"
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
 ---

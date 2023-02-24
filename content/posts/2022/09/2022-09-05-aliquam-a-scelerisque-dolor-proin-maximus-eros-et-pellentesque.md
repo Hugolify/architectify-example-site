@@ -9,14 +9,9 @@ categories: Donec maximus a nulla ut feugiat
 tags:
   - Lorem
   - Ipsum
-authors:
-  - john-doe
 image:
-  src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
-  credit: Photo by [Sébastien
-    Jermer](https://unsplash.com/es/@seb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    on
-    [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
+  credit: Photo by [Volodymyr Kondriianenko](https://unsplash.com/@entrpswn) on [Unsplash](https://unsplash.com/)
 ---
 ## Lorem ipsum
 

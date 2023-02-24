@@ -78,7 +78,7 @@ blocks:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+          src: /images/uploads/dfy-FdJTAlZaeOA-unsplash.jpg
         cta:
           blank: false
           url: "#"
@@ -86,15 +86,15 @@ blocks:
       - text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
         title: Faucibus maximus nunc
         image:
-          src: /images/uploads/robin-goutard-3evcj31p35q-unsplash.jpg
+          src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
       - title: Aliquam velit magna
         text: Donec ut eros sit amet ipsum pulvinar sagittis.
         image:
-          src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
+          src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       - title: Curabitur non ante purus
         text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
         image:
-          src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+          src: /images/uploads/darwin-vegher-mV4oTSZR4eA-unsplash.jpg
   - type: informations
     column: 4
     background: false
@@ -104,22 +104,22 @@ blocks:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+          src: /images/uploads/logo-architectify.svg
           isLogo: true
       - text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
         title: Faucibus maximus nunc
         image:
-          src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+          src: /images/uploads/logo-architectify.svg
           isLogo: true
       - title: Aliquam velit magna
         text: Donec ut eros sit amet ipsum pulvinar sagittis.
         image:
-          src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+          src: /images/uploads/logo-architectify.svg
           isLogo: true
       - title: Curabitur non ante purus
         text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
         image:
-          src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+          src: /images/uploads/logo-architectify.svg
           isLogo: true
   - type: informations
     column: 4
@@ -130,11 +130,11 @@ blocks:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+          src: /images/uploads/darwin-vegher-mV4oTSZR4eA-unsplash.jpg
       - text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
         title: Faucibus maximus nunc
         image:
-          src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+          src: /images/uploads/logo-architectify.svg
           isLogo: true
       - title: Aliquam velit magna
         text: Donec ut eros sit amet ipsum pulvinar sagittis.
