@@ -12,7 +12,7 @@ contact:
   phone: +33 (0) 1 12 34 56 78
   twitter: tempus
   linkedin: https://www.linkedin.com
-  instagram: tempus
+  instagram: elementum
 offices:
   - Londres
   - Bordeaux

@@ -54,6 +54,15 @@ blocks:
     background: false
     title: Latest publications
     section: publications
+  - type: selected
+    show_more: true
+    background: false
+    title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio.
+    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet.
+    section: offices
+    items:
+      - Paris
+      - Bordeaux
   # - type: cta
   #   background: false
   #   title: Content blocks

@@ -8,8 +8,8 @@ image:
   src: /images/uploads/philip-martin-5aGUyCW_PJw-unsplash.jpg
   credit: Photo de [Philip Martin](https://unsplash.com/@phlmrtn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com)
 contact:
-  email: johndoe@email.com
-  twitter: johndoe
+  email: elementum@email.com
+  twitter: elementum
 offices:
   - Bordeaux
 ---
