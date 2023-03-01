@@ -36,4 +36,15 @@ blocks:
     text: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus     felis ante, eget commodo ex ullamcorper eu. Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
     image:
       src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
+  - type: editorial
+    direction: rtl
+    background: false
+    title: Text on the right, image on the left
+    text: |-
+      Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique 
+    
+      
+      id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu. Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
+    image:
+      src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
 ---

@@ -63,13 +63,16 @@ blocks:
     items:
       - Paris
       - Bordeaux
-  # - type: cta
-  #   background: false
-  #   title: Content blocks
-  #   text: To compose beautiful pages, more than fifteen blocks are available to
-  #     boost their content. Available for pages and case studies.
-  #   cta:
-  #     blank: false
-  #     text: See all available blocks
-  #     url: /blocks
+  - type: pushes
+    background: false
+    column: 2
+    items:
+      - title: Page builder
+        text: To compose beautiful pages, more than fifteen blocks are available to boost their content. Available for pages and offices.
+        color: "#f6dfc9"
+        background_color: "#092036"
+        cta:
+          text: Discover
+          blank: false
+          url: /blocks
 ---
