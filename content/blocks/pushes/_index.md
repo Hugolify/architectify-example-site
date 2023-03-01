@@ -55,6 +55,23 @@ blocks:
   - type: pushes
     column: 1
     background: false
+    title: 1 column, align center, darken background
+    text: Nam eleifend nisl tellus, porta lacinia
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        offset: center
+        darken: true
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+        image:
+          src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
+          alt: ""
+  - type: pushes
+    column: 1
+    background: false
     title: 1 column, align end
     text: Nam eleifend nisl tellus, porta lacinia
     items:
@@ -101,14 +118,16 @@ blocks:
           blank: false
           url: "#"
           text: Lorem ipsum
-        background_color: "#000"
+        background_color: "#f6dfc9"
+        color: "#092036"
         offset: start
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
       - cta:
           blank: false
         offset: center
-        background_color: "#0E0F60"
+        background_color: "#092036"
+        color: "#f6dfc9"
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
 ---
