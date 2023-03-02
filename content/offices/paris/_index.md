@@ -18,13 +18,13 @@ image:
 blocks:
   - type: figure
     grid: medium
-    align: start
+    offset: end
     figure:
       src: /images/uploads/nil-castellvi-ZG5_505mUog-unsplash.jpg
       credit: Photo of [Nil Castellví](https://unsplash.com/@nilcaste) on [Unsplash](https://unsplash.com/)
   - type: figure
     grid: small
-    align: end
+    offset: center
     figure:
       src: /images/uploads/dylan-mullins-qpdV9j_4htA-unsplash.jpg
       credit: Photo of [Dylan Mullins](https://unsplash.com/@dylanmullins) on [Unsplash](https://unsplash.com)

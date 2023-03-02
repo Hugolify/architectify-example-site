@@ -19,11 +19,13 @@ image:
 blocks:
   - type: figure
     grid: small
+    offset: end
     figure:
       src: /images/uploads/damiano-baschiera---JMu66-v_A-unsplash.jpg
       credit: Photo of [Damiano Baschiera](https://unsplash.com/es/@damiano_baschiera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/fr/photos/--JMu66-v_A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   - type: figure
     grid: medium
+    offset: center
     figure:
       src: /images/uploads/damiano-baschiera-1ornuE94Kb8-unsplash.jpg
       credit: Photo of [Damiano Baschiera](https://unsplash.com/es/@damiano_baschiera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/fr/photos/--JMu66-v_A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

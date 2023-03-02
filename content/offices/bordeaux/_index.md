@@ -21,11 +21,13 @@ image:
 blocks:
   - type: figure
     grid: small
+    offset: end
     figure:
       src: /images/uploads/clovis-wood-photography-d8PfS9nprEk-unsplash.jpg
       credit: Photo of [Clovis Wood Photography](https://unsplash.com/@clo_shooting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)
   - type: figure
     grid: medium
+    offset: center
     figure:
       src: /images/uploads/elliot-paris-fXLQpO4R1Eo-unsplash.jpg
       credit: Photo of [Elliot Paris](https://unsplash.com/@elliotparis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/fr/photos/fXLQpO4R1Eo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
