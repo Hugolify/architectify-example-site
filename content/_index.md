@@ -1,13 +1,13 @@
 ---
 isIndex: true
-title: Accueil
+title: Home
 hero:
   surtitle: Praesent tempor
   title: Aenean tristique metus vitae
   text: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet. Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
   cta:
     url: "#main"
-    text: Découvrir
+    text: Discover
     blank: false
   cta_second:
     url: https://www.architectify.io/

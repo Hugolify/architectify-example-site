@@ -1,7 +1,7 @@
 ---
 isPage: true
 draft: false
-title: Mentions légales
+title: Legals mentions
 ---
 ## Fusce id imperdiet nunc
 
