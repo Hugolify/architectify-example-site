@@ -10,10 +10,6 @@ hero:
     blank: false
     text: See examples
     url: "#main"
-  cta_second:
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/Block-alert
-    blank: true
   title: Block alert
   text: Add alert section with state
 blocks:

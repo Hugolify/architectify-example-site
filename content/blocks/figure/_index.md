@@ -23,6 +23,9 @@ blocks:
       legend: Figure (small)
     grid: small
   - type: figure
+    heading:
+      title: Figure
+      text: Mauris lobortis pulvinar lectus at semper.
     figure:
       src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       legend: Figure (medium)

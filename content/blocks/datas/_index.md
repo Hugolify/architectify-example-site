@@ -10,18 +10,15 @@ hero:
     blank: false
     text: See examples
     url: "#main"
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-datas
   title: Blocks datas
   text: Add some datas in columns (with gauge or not)
 blocks:
   - type: datas
     column: 3
     background: false
-    title: With gauge and automatic color
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: With gauge and automatic color
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus
@@ -46,8 +43,9 @@ blocks:
   - type: datas
     column: 3
     background: false
-    title: With gauge
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: With gauge
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus
@@ -72,8 +70,9 @@ blocks:
   - type: datas
     column: 3
     background: false
-    title: Without gauges
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: Without gauges
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus
@@ -98,8 +97,9 @@ blocks:
   - type: datas
     column: 4
     background: false
-    title: Without gauges
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: Without gauges
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus

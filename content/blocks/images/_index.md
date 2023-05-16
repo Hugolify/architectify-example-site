@@ -12,15 +12,12 @@ hero:
     blank: false
     text: See examples
     url: "#main"
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-images
 blocks:
   - type: images
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Suspendisse sollicitudin dignissim velit quis consequat
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Suspendisse sollicitudin dignissim velit quis consequat
     images:
       - src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
         half: false

@@ -19,7 +19,8 @@ blocks:
     show_more: false
     background: false
     section: projects
-    title: Latest projects
+    heading:
+      title: Latest projects
   - type: figure
     background: false
     grid: large
@@ -49,17 +50,19 @@ blocks:
       text: Suspendisse sed dui sollicitudin
       url: "#"
   - type: latest
+    section: publications
     count: 3
     show_more: false
     background: false
-    title: Latest publications
-    section: publications
+    heading:
+      title: Latest publications
   - type: selected
+    section: offices
     show_more: true
     background: false
-    title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio.
-    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet.
-    section: offices
+    heading:
+      title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio.
+      text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet.
     items:
       - Paris
       - Bordeaux

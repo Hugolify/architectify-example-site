@@ -12,8 +12,6 @@ hero:
     text: See examples
     blank: false
     url: "#main"
-  cta_second:
-    blank: false
 blocks:
   - type: selected-projects
     background: false
@@ -22,7 +20,8 @@ blocks:
       - 2022/aliquet-facilisis
       - 2022/fusce-ut-sapien-massa
       - 2022/proin-massa-enim-lobortis-et-vehicula-non
-    title: 3 selected projects
+    heading:
+      title: 3 selected projects
     show_more: true
   - type: selected-posts
     section: posts
@@ -33,12 +32,14 @@ blocks:
       - 2022/10/2022-10-04-aliquam-a-scelerisque-dolor-proin-maximus-eros-et-pellentesque-rhoncus
       - 2022/10/2022-10-04-lorem-ipsum
       - 2022/10/2022-10-03-nullam-lacinia-ligula
-    title: 4 selected posts
+    heading:
+      title: 4 selected posts
   - type: selected-publications
     section: publications
     show_more: false
     background: true
-    title: 1 selected publication
+    heading:
+      title: 1 selected publication
     items:
       - 2022/11/2022-11-21-maecenas-ut-sodales-arcu
 ---

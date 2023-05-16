@@ -12,30 +12,29 @@ hero:
     blank: false
     url: "#main"
     text: See examples
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-latest
 blocks:
   - type: latest
     count: 3
     show_more: true
     background: false
     section: posts
-    title: Latest news
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Latest news
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
     count: 3
     show_more: true
     background: false
     section: projects
-    title: Latest projects
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Latest projects
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
     count: 3
     show_more: true
     background: false
     section: publications
-    title: Latest publications
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Latest publications
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---

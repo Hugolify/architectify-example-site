@@ -12,10 +12,6 @@ hero:
     blank: false
     text: See examples
     url: "#main"
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-paragraph
 blocks:
   - type: paragraph
     background: false

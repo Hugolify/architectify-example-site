@@ -10,18 +10,15 @@ hero:
     blank: false
     text: See examples
     url: "#main"
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/Block-informations
   title: Block informations
   text: Add some cards informations in column. Icon, images and button are available
 blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns with icons
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with icons
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -38,8 +35,9 @@ blocks:
   - type: informations
     column: 3
     background: false
-    title: 3 columns with icons
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 3 columns with icons
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -53,8 +51,9 @@ blocks:
   - type: informations
     column: 4
     background: true
-    title: 4 columns with icons and background
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with icons and background
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -72,8 +71,9 @@ blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns with images
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with images
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -98,8 +98,9 @@ blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns with logos
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with logos
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -124,8 +125,9 @@ blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns mixed
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns mixed
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.

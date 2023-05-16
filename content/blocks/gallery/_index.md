@@ -10,18 +10,15 @@ hero:
     blank: false
     text: See examples
     url: "#main"
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-gallery
   title: Block gallery
   text: Add image gallery in grid
 blocks:
   - type: gallery
     column: 6
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       - src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
@@ -34,8 +31,9 @@ blocks:
   - type: gallery
     column: 5
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       - src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
@@ -48,8 +46,9 @@ blocks:
   - type: gallery
     column: 4
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       - src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
@@ -62,8 +61,9 @@ blocks:
   - type: gallery
     column: 3
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       - src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg
@@ -76,8 +76,9 @@ blocks:
   - type: gallery
     column: 2
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/matic-kozinc-njYp4KqjqF8-unsplash.jpg
       - src: /images/uploads/volodymyr-kondriianenko-n2EXdta0MeM-unsplash.jpg

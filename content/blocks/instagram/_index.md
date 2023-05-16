@@ -7,19 +7,19 @@ image:
   src: /images/uploads/instagram.svg
 hero:
   title: Block Instagram
-  text: Add instagram feed (You need a valid access_token)
+  text: Add instagram feed
   cta:
     blank: false
     text: See examples
     url: "#main"
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-instagram
 blocks:
+  - type: alert
+    text: You need a valid access_token
+    status: danger
   - type: instagram
     background: false
-    title: Instagram feed
+    heading:
+      title: Instagram feed
     limit: 4
     token: ""
     cta:
@@ -28,7 +28,8 @@ blocks:
       url: https://www.instagram.com/sebouorhum
   - type: instagram
     background: true
-    title: Instagram feed
+    heading:
+      title: Instagram feed
     limit: 6
     token: ""
 ---

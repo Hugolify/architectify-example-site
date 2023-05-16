@@ -10,17 +10,12 @@ hero:
     blank: false
     url: "#main"
     text: Discover
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-chart
   title: Block chart
-  text: Add different charts like bar, line, pie, radar… (with Chart JS library)
-
-    - https://www.chartjs.org/
+  text: Add different charts like bar, line, pie, radar…
 blocks:
   - type: chart
-    title: Chart pie example
+    heading:
+      title: Chart pie example
     grid: small
     chart:
       type: pie
@@ -39,7 +34,8 @@ blocks:
           value: 45
           color: "#003355"
   - type: chart
-    title: Chart bar example
+    heading:
+      title: Chart bar example
     grid: medium
     chart:
       type: bar
@@ -58,7 +54,8 @@ blocks:
           value: 45
           color: "#003355"
   - type: chart
-    title: Chart line example
+    heading:
+      title: Chart line example
     grid: large
     chart:
       type: line
@@ -77,7 +74,8 @@ blocks:
           value: 45
           color: "#003355"
   - type: chart
-    title: Chart doughnut example
+    heading:
+      title: Chart doughnut example
     grid: small
     chart:
       type: doughnut
@@ -96,7 +94,8 @@ blocks:
           value: 45
           color: "#003355"
   - type: chart
-    title: Chart polarArea example
+    heading:
+      title: Chart polarArea example
     grid: small
     chart:
       type: polarArea
@@ -115,7 +114,8 @@ blocks:
           value: 45
           color: "#003355"
   - type: chart
-    title: Chart radar example
+    heading:
+      title: Chart radar example
     grid: small
     chart:
       type: radar
@@ -136,8 +136,9 @@ blocks:
         - label: Cycling
           value: 55
   - type: chart
-    title: Chart polarArea example
-    text: via expert mode (json)
+    heading:
+      title: Chart polarArea example
+      text: via expert mode (json)
     chart:
       type: polarArea 
       data:
@@ -166,8 +167,9 @@ blocks:
     grid: small
     background: false
   - type: chart
-    title: Chart bubble example
-    text: via expert mode (json)
+    heading:
+      title: Chart bubble example
+      text: via expert mode (json)
     chart:
       type: bubble
       data:
@@ -191,8 +193,9 @@ blocks:
     grid: full
     background: false
   - type: chart
-    title: Chart radar example
-    text: via expert mode (json)
+    heading:
+      title: Chart radar example
+      text: via expert mode (json)
     chart:
       type: radar
       data:
