@@ -2,7 +2,3 @@ module:
   mounts:
     - source: assets
       target: assets
-    - source: content
-      target: content
-    - source: data
-      target: data
