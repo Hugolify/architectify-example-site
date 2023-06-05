@@ -5,6 +5,5 @@ links:
     url: /projects
   - title: News
     url: /news
-  - blank: false
-    title: Publications
+  - title: Publications
     url: /publications
