@@ -10,9 +10,9 @@ address:
   city: Bordeaux
   country: France
 contact:
-  phone: +33 (0) 5 56 44 67 29
-  email: contact@lawyerify.fr
-  fax: +33 (0) 5 56 44 67 30
+  phone: +33 (0) 1 12 34 56 78
+  email: contact@architectify.io
+  fax: +33 (0) 1 12 34 56 78
   linkedin: "#"
   twitter: "#"
 image:

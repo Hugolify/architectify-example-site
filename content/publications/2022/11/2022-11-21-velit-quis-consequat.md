@@ -18,7 +18,7 @@ images:
 press:
   title: Lorem ipsum
   url: "#"
-concerned: 
+publications_concerned: 
   - frederic-dupond
 ---
 Aliquam ut porttitor nunc, sit amet suscipit nisl. In sed est vitae tortor cursus laoreet. Sed et ullamcorper mauris, et varius elit. Vestibulum sit amet sem venenatis, dapibus eros non, pellentesque massa. Sed at fringilla ante. Fusce vitae mauris nulla. In faucibus arcu eget turpis gravida, ut consequat orci varius. Etiam blandit lobortis lobortis. 

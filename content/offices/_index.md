@@ -1,7 +1,7 @@
 ---
 isIndex: true
 title: Offices
-url: /offices
+url: offices
 hero:
   surtitle: Vestibulum consequat
   title: Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue.

@@ -13,9 +13,9 @@ contact:
   twitter: tempus
   linkedin: https://www.linkedin.com
   instagram: elementum
-offices:
-  - Londres
-  - Bordeaux
+persons_offices:
+  - londres
+  - bordeaux
 ---
 Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet. Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
 

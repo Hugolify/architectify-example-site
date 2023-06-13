@@ -3,24 +3,14 @@ isIndex: true
 title: Home
 hero:
   surtitle: Praesent tempor
-  title: Aenean tristique metus vitae
-  text: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet. Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
-  cta:
-    url: "#main"
-    text: Discover
-    blank: false
-  cta_second:
-    url: https://www.architectify.io/
-    text: Architectify
-    blank: true
+  title: Aenean tristique metus vitaer projects
 blocks:
   - type: latest
     count: 6
     show_more: false
     background: false
     section: projects
-    heading:
-      title: Latest projects
+    title: Latest projects
   - type: figure
     background: false
     grid: large
@@ -32,7 +22,6 @@ blocks:
     background: false
     surtitle: Suspendisse sed dui sollicitudin
     title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet.
-    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
     image:
       src: /images/uploads/trym-robberstad-y9Kb_tQllbk-unsplash.jpg
     cta:
@@ -43,39 +32,24 @@ blocks:
     background: false
     surtitle: Vestibulum consequat sit amet
     title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet.
-    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
     image:
       src: /images/uploads/pedro-miranda-3QzMBrvCeyQ-unsplash.jpg
     cta:
       text: Suspendisse sed dui sollicitudin
       url: "#"
   - type: latest
-    section: publications
     count: 3
     show_more: false
     background: false
-    heading:
-      title: Latest publications
+    title: Latest publications
+    section: publications
   - type: selected
-    section: offices
     show_more: true
     background: false
-    heading:
-      title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio.
-      text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet.
+    title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio.
+    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet.
+    section: offices
     items:
       - Paris
       - Bordeaux
-  - type: pushes
-    background: false
-    column: 2
-    items:
-      - title: Page builder
-        text: To compose beautiful pages, more than fifteen blocks are available to boost their content. Available for pages and offices.
-        color: "#f6dfc9"
-        background_color: "#092036"
-        cta:
-          text: Discover
-          blank: false
-          url: /blocks
 ---

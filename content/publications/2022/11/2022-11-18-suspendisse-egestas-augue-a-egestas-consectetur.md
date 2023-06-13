@@ -10,7 +10,7 @@ image:
     on [Unsplash](https://unsplash.com/fr/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   src: /images/uploads/sarah-dorweiler-Sy8dsVyiPgs-unsplash.jpg
 images: []
-concerned: 
+publications_concerned: 
   - frederic-dupond
 press:
   url: https://lipsum.com/
