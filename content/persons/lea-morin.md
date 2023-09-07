@@ -13,7 +13,7 @@ contact:
   twitter: tempus
   linkedin: https://www.linkedin.com
   instagram: elementum
-persons_offices:
+persons_places:
   - londres
   - bordeaux
 ---

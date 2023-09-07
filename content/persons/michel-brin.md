@@ -10,7 +10,7 @@ image:
 contact:
   email: tempus@consequat.com
   twitter: consequat
-persons_offices:
+persons_places:
   - paris
 ---
 Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet. Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
