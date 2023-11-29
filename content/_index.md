@@ -26,7 +26,7 @@ blocks:
       src: /images/uploads/trym-robberstad-y9Kb_tQllbk-unsplash.jpg
     cta:
       text: Suspendisse sed dui sollicitudin
-      url: "#"
+      url: '#'
   - type: editorial
     direction: rtl
     background: false
@@ -36,7 +36,7 @@ blocks:
       src: /images/uploads/pedro-miranda-3QzMBrvCeyQ-unsplash.jpg
     cta:
       text: Suspendisse sed dui sollicitudin
-      url: "#"
+      url: '#'
   - type: latest
     count: 3
     show_more: false
@@ -47,7 +47,7 @@ blocks:
     show_more: true
     background: false
     title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio.
-    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet.
+    text: Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet.
     section: places
     items:
       - Paris
