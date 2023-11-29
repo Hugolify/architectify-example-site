@@ -14,14 +14,16 @@ image:
 datas:
   - title: Lieu
     text: Marrakech, Maroc
-images: 
+images:
   - half: true
     src: /images/uploads/jessica-kantak-bailey-RBbK4p-M7tI-unsplash.jpg
-    credit: Photo de [Jessica Kantak Bailey](https://unsplash.com/@jkkantakbailey)
+    credit:
+      Photo de [Jessica Kantak Bailey](https://unsplash.com/@jkkantakbailey)
       on [Unsplash](https://unsplash.com/)
   - half: true
     src: /images/uploads/jessica-kantak-bailey-TdXOinHY6Ms-unsplash.jpg
-    credit: Photo de [Jessica Kantak Bailey](https://unsplash.com/@jkkantakbailey)
+    credit:
+      Photo de [Jessica Kantak Bailey](https://unsplash.com/@jkkantakbailey)
       on [Unsplash](https://unsplash.com/)
   - half: false
     src: /images/uploads/sergey-pesterev-i-P1lmY_e1w-unsplash.jpg

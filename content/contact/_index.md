@@ -3,8 +3,9 @@ isPage: true
 title: Contact
 hero:
   title: Contact us
-  text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-      Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
+  text:
+    Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+    Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
 blocks:
   - type: informations
     items:
@@ -25,9 +26,11 @@ blocks:
     location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
     zoom: 14
     heading:
-      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+      text:
+        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
         Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
+      title:
+        Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
         lectus.
   - type: figure
     grid: medium
